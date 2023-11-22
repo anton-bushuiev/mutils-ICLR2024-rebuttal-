@@ -1,3 +1,3 @@
 # Mutation utilities for protein design
 
-This repsitory is auxiliary for PPIformer and indended for the ICLR2024 rebuttal.
+This repository is auxiliary for PPIformer and intended for the ICLR2024 rebuttal.
